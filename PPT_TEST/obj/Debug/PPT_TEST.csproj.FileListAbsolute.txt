@@ -1,0 +1,60 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.MainForm1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csprojResolveAssemblyReference.cache
+D:\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.exe.config
+D:\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csproj.ResolveComReference.cache
+D:\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.exe
+D:\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.pdb
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csproj.ResolveComReference.cache
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.MainForm1.resources
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.Properties.Resources.resources
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csproj.GenerateResource.Cache
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.exe.config
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.exe
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.pdb
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csprojResolveAssemblyReference.cache
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.exe
+C:\Users\Jang\Desktop\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.pdb
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.exe.config
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.exe
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\bin\Debug\PPT_TEST.pdb
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csprojResolveAssemblyReference.cache
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csproj.ResolveComReference.cache
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.MainForm1.resources
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.Properties.Resources.resources
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.csproj.GenerateResource.Cache
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.exe
+C:\Users\Jang\Desktop\창공\PPT_TEST\PPT_TEST\obj\Debug\PPT_TEST.pdb
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\bin\Debug\PPT_TEST.exe.config
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\obj\Debug\PPT_TEST.csproj.ResolveComReference.cache
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\obj\Debug\PPT_TEST.exe
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\obj\Debug\PPT_TEST.pdb
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\bin\Debug\PPT_TEST.exe
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\bin\Debug\PPT_TEST.pdb
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\obj\Debug\PPT_TEST.csprojResolveAssemblyReference.cache
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\obj\Debug\PPT_TEST.MainForm1.resources
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\obj\Debug\PPT_TEST.Properties.Resources.resources
+C:\Users\Jang\Desktop\진행\PPT_TEST2\PPT_TEST\obj\Debug\PPT_TEST.csproj.GenerateResource.Cache
+C:\Users\Jang\Desktop\진행\PPT_TEST3\PPT_TEST\bin\Debug\PPT_TEST.exe.config
+C:\Users\Jang\Desktop\진행\PPT_TEST3\PPT_TEST\obj\Debug\PPT_TEST.csproj.ResolveComReference.cache
+C:\Users\Jang\Desktop\진행\PPT_TEST3\PPT_TEST\obj\Debug\PPT_TEST.exe
+C:\Users\Jang\Desktop\진행\PPT_TEST3\PPT_TEST\obj\Debug\PPT_TEST.pdb
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\bin\Debug\PPT_TEST.exe.config
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\PPT_TEST.csproj.ResolveComReference.cache
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\PPT_TEST.exe
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\PPT_TEST.pdb

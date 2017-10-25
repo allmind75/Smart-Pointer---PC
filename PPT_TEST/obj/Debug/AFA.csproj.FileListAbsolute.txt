@@ -1,0 +1,43 @@
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\bin\Debug\AFA.exe.config
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\bin\Debug\AFA.exe
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\bin\Debug\AFA.pdb
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\AFA.csprojResolveAssemblyReference.cache
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\AFA.csproj.ResolveComReference.cache
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\PPT_TEST.MainForm1.resources
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\AFA.Properties.Resources.resources
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\AFA.csproj.GenerateResource.Cache
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\AFA.exe
+C:\Users\Jang\Desktop\AFA_1.0\PPT_TEST\obj\Debug\AFA.pdb
+F:\최종본\AFA_1.0_Server\PPT_TEST\bin\Debug\AFA.exe.config
+F:\최종본\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.csproj.ResolveComReference.cache
+F:\최종본\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.exe
+F:\최종본\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.pdb
+C:\Users\Administrator\Desktop\캡스톤디자인1_1조_Smart Laser Pointer\프로그램\AFA_1.0_Server\PPT_TEST\bin\Debug\AFA.exe.config
+C:\Users\Administrator\Desktop\캡스톤디자인1_1조_Smart Laser Pointer\프로그램\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\캡스톤디자인1_1조_Smart Laser Pointer\프로그램\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.exe
+C:\Users\Administrator\Desktop\캡스톤디자인1_1조_Smart Laser Pointer\프로그램\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.pdb
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\bin\Debug\AFA.exe.config
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\bin\Debug\AFA.exe
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\bin\Debug\AFA.pdb
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\obj\Debug\PPT_TEST.MainForm1.resources
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.exe
+C:\Users\Administrator\Desktop\AFA_1.0_Server\PPT_TEST\obj\Debug\AFA.pdb
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\bin\Debug\AFA.exe.config
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\bin\Debug\AFA.exe
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\bin\Debug\AFA.pdb
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\obj\Debug\AFA.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\obj\Debug\PPT_TEST.MainForm1.resources
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\obj\Debug\AFA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\obj\Debug\AFA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\obj\Debug\AFA.exe
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\obj\Debug\AFA.pdb
+C:\Users\Administrator\Desktop\AFA_1.1_Server\PPT_TEST\obj\Debug\AFA.csprojResolveAssemblyReference.cache
